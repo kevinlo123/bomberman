@@ -1,0 +1,16 @@
+body{
+  background: url(http://rosettacode.org/mw/images/3/38/Maze_bbc.gif);
+  background-size: cover;
+}
+
+#bomberMan{
+  background: url(http://static.tvtropes.org/pmwiki/pub/images/bomberman.png);
+  height: 220px;
+  width: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+}
